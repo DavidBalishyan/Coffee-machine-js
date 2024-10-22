@@ -1,0 +1,14 @@
+{
+  "name": "coffee-machine",
+  "version": "1.0.0",
+  "description": "coffee-machine-js-Promises",
+  "main": "index.js",
+  "scripts": {
+    "dev": "index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

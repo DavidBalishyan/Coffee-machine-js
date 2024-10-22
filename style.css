@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#root{
+    width: 100%;
+    height: 100vh;
+    font-family: "Playwrite GB S", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
